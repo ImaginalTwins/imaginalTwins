@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imaginalTwins&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=imaginalTwins&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
